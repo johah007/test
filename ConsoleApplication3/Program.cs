@@ -10,6 +10,8 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Det går bra nu!");
+
         }
     }
 }
